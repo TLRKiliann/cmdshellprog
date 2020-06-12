@@ -1,2 +1,5 @@
 # cmdshellprog
-cmd from terminal about internet
+A short prog to launch cmd such as arp, ifconfig, netstat, nmap...
+Be root !
+
+Enjoy it!
